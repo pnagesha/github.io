@@ -24,7 +24,7 @@ This quick start provides a list of common administrative workflow for an ownClo
 Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
 
 * [Escalivada](./docs/Escalivada.md)
-* [Installation](.docs/install.md)
+* [Installation](./docs/install.md)
 * [Gazpacho](./recipes/Gazpacho.md)
 * [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
 
