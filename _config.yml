@@ -1,10 +1,10 @@
-theme: jekyll-theme-slate
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 include:
-- introduction.md
-- install.md
-- servers.md
+- Introduction.md
+- Install.md
+
+theme: jekyll-theme-slate
