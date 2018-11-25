@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -7,3 +7,4 @@ relative_links:
 include:
 - introduction.md
 - install.md
+- servers.md
