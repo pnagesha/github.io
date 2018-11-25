@@ -25,8 +25,7 @@ This quick start provides a list of common administrative workflow for an ownClo
 
 [![Access ownCloud Servers](./images/login.png)](./docs/access.md)
 
-[![](./images/login.png)](./docs/access.md)
-
+<a href="./docs/access.md"><img src="./images/login.png"></a>
 
 ## Recipes
 
