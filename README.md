@@ -27,7 +27,7 @@ This quick start provides a list of common administrative workflow for an ownClo
 
 <a href="./docs/access.md"><img src="./images/login.png"></a>
 
-## Recipes
+## Related Links
 
 Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
 
