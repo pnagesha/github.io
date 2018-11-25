@@ -9,8 +9,9 @@ This quick start provides a list of common administrative workflow for an ownClo
 This quick start provides a list of common administrative workflow for an ownCloud server installation. What would you like to do?
 
 <br>
+[Install ownCloud Server](./docs/install.md)
 
-[![Install ownCloud Server](./images/install.png)](./docs/install.md)
+![Install ownCloud Server](./images/install.png)
 
 [![Configure ownCloud Servers](./images/configure.png)](./docs/servers.md)
 
