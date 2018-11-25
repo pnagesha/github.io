@@ -1,4 +1,4 @@
-# <img src="../images/install-sm.png" width=30></img>Install ownCloud Servers 
+# ![](../images/install-sm.png) Install ownCloud Servers 
 
 Administrators can install and configure an  ownCloud sever that runs on Linux, client applications for Microsoft Windows, Mac OS X and Linux, and mobile clients for the Android and Apple iOS operating systems.
 
