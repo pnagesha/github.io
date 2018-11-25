@@ -11,13 +11,21 @@ This quick start provides a list of common administrative workflow for an ownClo
 <br>
 [Install ownCloud Server](./docs/install.md)
 
-![Install ownCloud Server](./images/install.png)
+[![Install ownCloud Server](./images/install.png)](./docs/install.md)
+
+[Configure owncloud Server](./docs/servers.md)
 
 [![Configure ownCloud Servers](./images/configure.png)](./docs/servers.md)
 
-[![Add User Accounts](./images/user.png)](user.md)
+[Add user Accounts](./docs/user.md)
 
-[![Access ownCloud Servers](./images/login.png)](access.md)
+[![Add User Accounts](./images/user.png)](./docs/user.md)
+
+[Access ownCloud Server](./docs/access.md)
+
+[![Access ownCloud Servers](./images/login.png)](./docs/access.md)
+
+[![](./images/login.png)](./docs/access.md)
 
 
 ## Recipes
