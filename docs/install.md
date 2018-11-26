@@ -5,7 +5,7 @@ Administrators can install and configure an  ownCloud sever that runs on Linux, 
 This example shows how to install ownCloud on a server on your Linux system. 
 
 ## Before you Install
-1. Refer to the [System Requirements] (https://doc.ownCloud.org/server/latest/admin_manual/installation) section and ensure you meet the requirements.
+1. Refer to the [System Requirements](https://doc.ownCloud.org/server/latest/admin_manual/installation) section and ensure you meet the requirements.
 2. Set up a sudo user and firewall on your server. 
 
 **Note**: Administrators must have command line or cron access.
@@ -20,14 +20,14 @@ Use Package Manager for single-server setups. To install production environments
 5. Enter your username and password.
 6. Click **Finish Setup**. 	
 
-For detailed instructions, see the [In-Depth guide] ( https://doc.ownCloud.org/server/latest/admin_manual/installation/installation_wizard.html#in-depth-guide). 
+For detailed instructions, see the [In-Depth guide](https://doc.ownCloud.org/server/latest/admin_manual/installation/installation_wizard.html#in-depth-guide). 
 
 
 ## <a name="manual"></a>Manual Installation on Linux
-Manually install from the tar archive for production environments. To manually install, see [Manual Installation] (https://doc.ownCloud.org/server/latest/admin_manual/installation/source_installation.html). To set up single servers, see [Package Manager Installation](#package).
+Manually install from the tar archive for production environments. To manually install, see [Manual Installation](https://doc.ownCloud.org/server/latest/admin_manual/installation/source_installation.html). To set up single servers, see [Package Manager Installation](#package).
 
 ##Related Information
-* [Configure ownCloud Servers](Servers.md) s
+* [Configure ownCloud Servers](Servers.md)
 * [Add User Accounts](User.md)
 * [Access ownCloud Servers](access.md) 
 * [ownCloud Quick Start Guide](../README.md)

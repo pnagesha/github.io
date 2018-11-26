@@ -10,9 +10,9 @@ Before users can log in, synchronize, or share data, they need an account. To ad
 
 The new user can now [access](access.md) your ownCloud server. 
 
-For more information on User Management, see the [ownCloud Administration Manual] (https://doc.ownCloud.org/server/9.0/admin_manual/configuration_user/user_configuration.html).
+For more information on User Management, see the latest [ownCloud Administration Manual](https://doc.owncloud.org/server/latest/admin_manual/configuration/user/).
 
-##Related Information
+## Related Information
 * [Install ownCloud Servers](install.md)
 * [Configure ownCloud Servers](Servers.md)
 * [Access ownCloud Servers](access.md) 

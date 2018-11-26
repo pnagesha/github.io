@@ -13,12 +13,14 @@ Use the ownCloud Desktop client to access, save, and synchronize files.
 To install and configure:
 
 1. Download the [ownCloud Desktop Client](https://owncloud.com/download/#desktop-clients). 
-2. Double-click the download to lauch the installation wizard. 
+2. Double-click the download to launch the installation wizard. 
 3. Enter the server address and port (if configured) to connect to your ownCloud server.
 4. Enter your username and password.
 5. Set up local folder options.
 
 For more Desktop client configuration information, see the [ownCloud Client Manual](https://doc.owncloud.org/desktop/latest/).
+
+Alternately, use WebDAV to access and synchronize files. For more information, see the latest [ownCloud User Manual](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html).
 
 ## Related Information
 * [Install ownCloud Servers](install.md)
