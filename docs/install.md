@@ -10,11 +10,11 @@ This example shows how to install ownCloud on a server on your Linux system.
 
 **Note**: Administrators must have command line or cron access.
 
-##<a name="package"></a>Package Manager Installation on Linux
+## <a name="package"></a>Package Manager Installation on Linux
 Use Package Manager for single-server setups. To install production environments, see [Manual Installation](#manual).
 
 1. Download and install a LAMP stack. You can use this to create your web application or web site. 
-2. [Download](https://download.ownCloud.org/download/repositories/stable/ownCloud/) the install package for the Ubuntu operating system.  
+2. [Download](https://download.owncloud.org/download/repositories/stable/owncloud/index.html) the install package for the Ubuntu operating system.  
 3. Complete the installation instructions on the download page.
 4. Go to http://localhost/ownCloud. 
 5. Enter your username and password.
@@ -23,11 +23,11 @@ Use Package Manager for single-server setups. To install production environments
 For detailed instructions, see the [In-Depth guide] ( https://doc.ownCloud.org/server/latest/admin_manual/installation/installation_wizard.html#in-depth-guide). 
 
 
-##<a name="manual"></a>Manual Installation on Linux
+## <a name="manual"></a>Manual Installation on Linux
 Manually install from the tar archive for production environments. To manually install, see [Manual Installation] (https://doc.ownCloud.org/server/latest/admin_manual/installation/source_installation.html). To set up single servers, see [Package Manager Installation](#package).
 
 ##Related Information
-* [Configure ownCloud Servers](Servers.md)
-* [Add User Accounts] (User.md)
+* [Configure ownCloud Servers](Servers.md) s
+* [Add User Accounts](User.md)
 * [Access ownCloud Servers](access.md) 
 * [ownCloud Quick Start Guide](../README.md)
