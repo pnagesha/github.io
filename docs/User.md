@@ -16,4 +16,4 @@ For more information on User Management, see the [ownCloud Administration Manual
 * [Install ownCloud Servers](install.md)
 * [Configure ownCloud Servers](Servers.md)
 * [Access ownCloud Servers](access.md) 
-* [ownCloud Quick Start Guide](../README.md)
+* [ownCloud Quick Start Guide](../README.md)	

@@ -9,7 +9,7 @@ Once you have installed the server, open the ownCloud Admin panel and complete y
 
 ## Add a Trusted Domain
 
-Enable users to connect to your ownCloud server using a specified domain. You can whitelist your server address in the `config.php` file. 
+Enable users to connect to your ownCloud server using a specified domain. Whitelist your server address in the `config.php` file. 
 
 ### Example
 This example shows how to add `myserver.example.com` with port `8080` to the whitelist.
@@ -27,6 +27,6 @@ Users can now connect to the ownCloud server using this server and port address.
 
 ## Related Information
 * [Install ownCloud Servers](install.md)
-* [Add User Accounts] (User.md)
+* [Add User Accounts](User.md)
 * [Access ownCloud Servers](access.md) 
 * [ownCloud Quick Start Guide](../README.md)
