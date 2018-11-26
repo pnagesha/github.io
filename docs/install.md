@@ -26,7 +26,7 @@ For detailed instructions, see the [In-Depth guide](https://doc.ownCloud.org/ser
 ## <a name="manual"></a>Manual Installation on Linux
 Manually install from the tar archive for production environments. To manually install, see [Manual Installation](https://doc.ownCloud.org/server/latest/admin_manual/installation/source_installation.html). To set up single servers, see [Package Manager Installation](#package).
 
-##Related Information
+## Related Information
 * [Configure ownCloud Servers](Servers.md)
 * [Add User Accounts](User.md)
 * [Access ownCloud Servers](access.md) 
