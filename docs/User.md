@@ -1,4 +1,4 @@
-# <img src="user-sm.png" width=30></img>Add a User Account
+# ![](../images/user-sm.png) Add a User Account
 
 Before users can log in, synchronize, or share data, they need an account. To add a new user account, go to your ownCloud web interface.
 

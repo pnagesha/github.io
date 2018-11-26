@@ -1,4 +1,4 @@
-# <img src="configure-sm.png" width=30></img>Configure ownCloud Servers
+# ![](../images/configure-sm.png) Configure ownCloud Servers
 Once you have installed the server, open the ownCloud Admin panel and complete your server configuration. You can configure several features, including:
 
 - Security

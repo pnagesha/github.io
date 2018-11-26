@@ -9,36 +9,35 @@ This quick start provides a list of common administrative workflow for an ownClo
 This quick start provides a list of common administrative workflow for an ownCloud server installation. What would you like to do?
 
 <br>
-[Install ownCloud Server](./docs/install.md)
+[Install ownCloud Servers](./docs/install.md)
 
-[![Install ownCloud Server](./images/install.png)](./docs/install.md)
+![Install ownCloud Server](./images/install.png)
 
-[Configure owncloud Server](./docs/servers.md)
+[Configure owncloud Servers](./docs/servers.md)
 
-[![Configure ownCloud Servers](./images/configure.png)](./docs/servers.md)
+![Configure ownCloud Servers](./images/configure.png)
 
-[Add user Accounts](./docs/user.md)
+[Add User Accounts](./docs/user.md)
 
-[![Add User Accounts](./images/user.png)](./docs/user.md)
+![Add User Accounts](./images/user.png)]
 
 [Access ownCloud Server](./docs/access.md)
 
-![Access ownCloud Servers](./images/configure-sliced.png)
+![Access ownCloud Servers](./images/login.png)
+
 
 
 ## Related Links
 
-Since the purpose of this guide is to demonstrate how to publish multiple Markdown files as a website but I don't have much more to say I will propose you some delicious recipes instead:
+* [Install ownCloud Servers](./docs/install.md)
+* [Configure ownCloud Servers](./docs/servers.md)
+* [Add User Accounts](./docs/user.md)
+* [Access ownCloud Server](./docs/access.md)
 
-* [Escalivada](./docs/Escalivada.md)
-* [Installation](./docs/install.md)
-* [Gazpacho](./recipes/Gazpacho.md)
-* [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
 
-## Contributing
+## External Links
 
-See the [Contribution Guide](./CONTRIBUTING.md).
+* To learn more about ownCloud server administration, see the latest [ownCloud Server Administration Manual](https://doc.owncloud.org/server/latest/admin_manual/contents.html).
+* To learn more about ownCloud Desktop Client, see the latest [ownCloud Client Manual](https://doc.owncloud.org/desktop/latest/)
 
-## License
 
-See the [License File](./LICENSE.md).

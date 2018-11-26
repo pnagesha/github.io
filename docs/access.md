@@ -1,4 +1,4 @@
-# <img src="login-sm.png" width=30></img>Access ownCloud Server
+# ![](../images/login-sm.png) Access ownCloud Server
 
 Use the ownCloud Desktop client to access, save, and synchronize files. 
 
