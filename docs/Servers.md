@@ -26,7 +26,7 @@ This example shows how to add `myserver.example.com` with port `8080` to the whi
 Users can now connect to the ownCloud server using this server and port address. For more infromation, see [Server Access](access.md). 
 
 ## Related Information
-- [ownCloud Installation](install.md)
-- [User Management] (user.md)
-- [Server Access](access.md)
-- [ownCloud Quick Start](introduction.md)
+* [Install ownCloud Servers](install.md)
+* [Add User Accounts] (User.md)
+* [Access ownCloud Servers](access.md) 
+* [ownCloud Quick Start Guide](../README.md)

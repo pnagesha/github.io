@@ -5,7 +5,7 @@ Before users can log in, synchronize, or share data, they need an account. To ad
 1. Log in using your administration credentials.
 2. Enter a Login Name and a Password for the new user.  
 2. Select **User** from the list.
-![](users-create.png)
+![](../images/users-create.png)
 3. Click **Create**.
 
 The new user can now [access](access.md) your ownCloud server. 
@@ -13,7 +13,7 @@ The new user can now [access](access.md) your ownCloud server.
 For more information on User Management, see the [ownCloud Administration Manual] (https://doc.ownCloud.org/server/9.0/admin_manual/configuration_user/user_configuration.html).
 
 ##Related Information
-- [ownCloud Installation](install.md)
-- [Server Configiuration](servers.md)
-- [Server Access](access.md)
-- [ownCloud Quick Start](introduction.md)
+* [Install ownCloud Servers](install.md)
+* [Configure ownCloud Servers](Servers.md)
+* [Access ownCloud Servers](access.md) 
+* [ownCloud Quick Start Guide](../README.md)

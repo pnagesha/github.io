@@ -21,7 +21,7 @@ To install and configure:
 For more Desktop client configuration information, see the [ownCloud Client Manual](https://doc.owncloud.org/desktop/latest/).
 
 ## Related Information
-- [Server Installation](install.md)
-- [Server Configiuration](servers.md)
-- [User Management] (user.md)
-- [ownCloud Quick Start](introduction.md)
+* [Install ownCloud Servers](./docs/install.md)
+* [Configure ownCloud Servers](./docs/Servers.md)
+* [Add User Accounts](./docs/User.md)
+* [ownCloud Quick Start Guide](../README.md)
