@@ -23,9 +23,8 @@ This quick start provides a list of common administrative workflow for an ownClo
 
 [Access ownCloud Server](./docs/access.md)
 
-[![Access ownCloud Servers](./images/login.png)](./docs/access.md)
+![Access ownCloud Servers](./images/configure-sliced.png)
 
-<a href="./docs/access.md"><img src="./images/login.png"></a>
 
 ## Related Links
 
